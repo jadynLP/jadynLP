@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jadyn!
+### Helloooo, my name is Jadyn!
 I'm currently a senior studying computer science at the University of Central Florida. I really enjoy learning new technologies and working on team projects. More recently, I've been into UI design and front-end work. 
 
 Skills: REACT / JS / HTML / CSS / PYTHON / C / JAVA 
