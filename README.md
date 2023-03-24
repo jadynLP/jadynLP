@@ -1,8 +1,7 @@
 ## Hi, I'm Jadyn!
-I really enjoy learning new technologies and working on team projects. More recently, I've been into UI design and front-end work. 
+I really enjoy learning new technologies and working on team projects. 
 
-- 🔭 I’m currently working on an Amazon clone. 
-- 🌱 I’m currently learning full stack development. 
+- 🔭 I’m currently working on a senior design project. 
 - 💬 Ask me about the projects I've participated in.  
 - ⚡ Fun fact: I enjoy music, cooking, and reading! 
 
